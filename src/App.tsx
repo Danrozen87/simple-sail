@@ -27,7 +27,7 @@ function App() {
             Edit <code className="bg-muted px-1 py-0.5 rounded">src/App.tsx</code> and save to test HMR
           </p>
           <p className="text-sm text-muted-foreground text-center">
-            Your modern React app is live! Start building something amazing! 🚀
+            Your modern React app is live! Start building something amazing! ð
           </p>
         </CardContent>
       </Card>
